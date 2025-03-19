@@ -1,9 +1,9 @@
 # Sizzl3S.github.io
 
 <html>
-  <head>
-  <title>This is a title</title>
-  </head>
+<head>
+<title>This is a title</title>
+</head>
   
 <body>
   
