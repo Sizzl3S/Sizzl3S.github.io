@@ -16,11 +16,12 @@
 <h1>This is a heading</h1>
 <p>This is a paragraph</p>
 <p>This is a <br> line break.</p>
+<hr>
 <a href="github.com/Sizzl3S">Link to my github</a>
 <img src="https://fronty.com/static/uploads/code_tester.png" width="104" height="142">
 <p style="color:blue;">This is a coloured paragraph.</p>
 <p title="I'm a tooltip">This is a paragraph.</p>
-
+<hr>
 <pre>
   Hello.
       Hello.
