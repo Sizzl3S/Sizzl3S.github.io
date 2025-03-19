@@ -1,7 +1,14 @@
 # Sizzl3S.github.io
 
 <html lang="en-AU">
-  
+<body>
+  <h1>Hello</h1>
+  <h2>Hello</h2>
+  <h3>Hello</h3>
+  <h4>Hello</h4>
+  <h5>Hello</h5>
+  <h6>Hello</h6>
+</body>
 <body>
   
 <h1>This is a heading</h1>
