@@ -10,6 +10,7 @@
   <h6>Hello</h6>
 
   <h1 style="color:red;font-size:60px;">Hello</h1>
+  <hr>
 </body>
 <body>
   
