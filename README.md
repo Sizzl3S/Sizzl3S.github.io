@@ -16,7 +16,7 @@
   
 <h1>This is a heading</h1>
 <p>This is a paragraph</p>
-<p>This is a <br> line break.</p>
+<p style="background-color:tomato;">This is a <br> line break.</p>
 <hr>
 <a href="github.com/Sizzl3S">Link to my github</a>
 <img src="https://fronty.com/static/uploads/code_tester.png" width="104" height="142">
