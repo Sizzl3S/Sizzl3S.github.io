@@ -21,6 +21,12 @@
 <p style="color:blue;">This is a coloured paragraph.</p>
 <p title="I'm a tooltip">This is a paragraph.</p>
 
+<pre>
+  Hello.
+      Hello.
+          Hello.
+</pre>
+
 </body>
 
 </html>
