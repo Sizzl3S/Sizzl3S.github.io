@@ -9,6 +9,7 @@
 <p>This is a <br> line break.</p>
 <a href="github.com/Sizzl3S">Link to my github</a>
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<p style="color:blue;">This is a coloured paragraph.</p>
 
 </body>
 
