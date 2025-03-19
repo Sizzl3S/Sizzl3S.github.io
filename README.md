@@ -1,8 +1,9 @@
 # Sizzl3S.github.io
+<!DOCTYPE html>
 
 <html>
 <head>
-<title>This is a title</title>
+  <title>Page Title</title>
 </head>
   
 <body>
