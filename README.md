@@ -1,6 +1,6 @@
 # Sizzl3S.github.io
 
-<html>
+<html lang="en-AU">
   
 <body>
   
@@ -10,6 +10,7 @@
 <a href="github.com/Sizzl3S">Link to my github</a>
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 <p style="color:blue;">This is a coloured paragraph.</p>
+<p title="I'm a tooltip">This is a paragraph.</p>
 
 </body>
 
